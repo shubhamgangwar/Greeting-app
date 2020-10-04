@@ -1,0 +1,19 @@
+
+.css{
+  height: 200px;
+  width: 800px;
+  margin-top: 150px;
+  margin-left: 250px;  
+  text-shadow: 3px 3px yellow;
+}
+.css h1 {
+  font-size: 10vh;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.css p {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -30px;
+}
